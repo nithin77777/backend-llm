@@ -1,0 +1,5 @@
+distlib==0.4.3
+filelock==4.0.3
+platformdirs==4.11.12
+python-discovery==1.6.1
+virtualenv==21.12.0
